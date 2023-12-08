@@ -7,8 +7,8 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 # Load the pre-trained model and vectorizer
-model = joblib.load('/Users/vipul/Downloads/Projects/Email:Message Spam Detection/model.pkl')
-vectorizer = joblib.load('/Users/vipul/Downloads/Projects/Email:Message Spam Detection/vectorizer.pkl')
+model = joblib.load('model.pkl')
+vectorizer = joblib.load('vectorizer.pkl')
 
 # Function to classify emails
 def classify_email(text):
