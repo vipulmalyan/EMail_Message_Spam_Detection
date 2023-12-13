@@ -1,6 +1,5 @@
 # Email/SMS Spam Classifier
 
-![Email/SMS Spam Classifier](https://wallpapers.com/images/hd/email-background-t0cbknt4ahfsy4rc.jpg)
 
 ## Overview
 
@@ -36,7 +35,7 @@ This Streamlit application serves as an Email/SMS Spam Classifier. It employs a 
 
 ## Application Interface
 
-![Application Screenshot](<screenshot_image_url>)
+![Application Screenshot](https://raw.githubusercontent.com/vipulmalyan/EMail_Message_Spam_Detection/main/poster.png)
 
 ## Model Details
 
